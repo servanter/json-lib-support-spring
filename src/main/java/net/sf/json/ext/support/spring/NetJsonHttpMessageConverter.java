@@ -17,7 +17,7 @@ import org.springframework.http.converter.HttpMessageNotReadableException;
 import org.springframework.http.converter.HttpMessageNotWritableException;
 
 /**
- * Net json lib support for spring
+ * Net json lib support for spring.
  * 
  * @author zhanghongyan
  *
