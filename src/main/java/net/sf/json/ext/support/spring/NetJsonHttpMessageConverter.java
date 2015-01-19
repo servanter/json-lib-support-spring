@@ -73,7 +73,6 @@ public class NetJsonHttpMessageConverter extends AbstractHttpMessageConverter<Ob
             if (len == -1) {
                 break;
             }
-
             if (len > 0) {
                 baos.write(buf, 0, len);
             }
