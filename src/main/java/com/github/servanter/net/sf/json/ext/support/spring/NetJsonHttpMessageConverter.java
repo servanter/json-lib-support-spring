@@ -1,4 +1,4 @@
-package net.sf.json.ext.support.spring;
+package com.github.servanter.net.sf.json.ext.support.spring;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
