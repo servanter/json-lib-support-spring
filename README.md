@@ -6,7 +6,7 @@
 ##How to use
     <mvc:annotation-driven>
         <mvc:message-converters>
-            <bean id="netJsonHttpMessageConverter" class="com.github.servanter.net.sf.json.ext.support.spring.NetJsonHttpMessageConverter">
+            <bean id="netJsonHttpMessageConverter" class="com.github.servanter.net.sf.json.support.spring.NetJsonHttpMessageConverter">
                 <property name="charset" value="GBK">
             </bean>
         </mvc:message-converters>
