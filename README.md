@@ -2,7 +2,7 @@
 
 ##Introduction
 
-<p>It can help for springmvc using net.sf.json-lib returns json format</p>
+<p>It can help for springmvc using net.sf.json-lib and @Responsebody returns json format</p>
 ##How to use
     <mvc:annotation-driven>
         <mvc:message-converters>
