@@ -14,7 +14,7 @@
 ##Maven association
 ### dependency
         <dependency>
-            <groupId>com.github.servanter</groupId>
-            <artifactId>netsfjson-support-spring</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
+        	<groupId>com.github.servanter</groupId>
+        	<artifactId>netsfjson-support-spring</artifactId>
+        	<version>1.0.0</version>
         </dependency>
