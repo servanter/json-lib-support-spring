@@ -7,6 +7,7 @@
 	<packaging>jar</packaging>
 	<name>json-lib-support-spring</name>
 	<description>It can help for springmvc using net.sf.json-lib and @Responsebody returns json format</description>
+	<url>https://github.com/servanter/json-lib-support-spring</url>
 	<licenses>
 		<license>
 			<name>MIT License</name>
@@ -45,6 +46,11 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-web</artifactId>
+			<version>3.2.0.RELEASE</version>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-webmvc</artifactId>
 			<version>3.2.0.RELEASE</version>
 		</dependency>
 		<dependency>
