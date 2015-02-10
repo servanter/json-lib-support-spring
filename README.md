@@ -12,7 +12,7 @@
         </mvc:message-converters>
     </mvc:annotation-driven>
 ##Maven association
-### dependency
+### Dependency
         <dependency>
         	<groupId>com.github.servanter</groupId>
         	<artifactId>netsfjson-support-spring</artifactId>
