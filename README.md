@@ -12,6 +12,7 @@
         </mvc:message-converters>
     </mvc:annotation-driven>
 ##Maven association
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.servanter/netsfjson-support-spring/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.servanter/netsfjson-support-spring)
 ### Dependency
         <dependency>
         	<groupId>com.github.servanter</groupId>
