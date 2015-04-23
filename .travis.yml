@@ -1,4 +1,5 @@
 language: java
+before_install: echo "Build json-lib-support-spring"
 install: mvn install -DskipTests=true -Dgpg.skip=true
 jdk:
   - oraclejdk7
